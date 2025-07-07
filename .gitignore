@@ -1,0 +1,43 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# User-specific
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vscode/
+*.code-workspace
+
+# Crash reports
+sysinfo.txt
+
+# Unity Cache
+MemoryCaptures/
+Assets/AssetStoreTools*
+
+# Rider IDE
+.idea/
+*.sln.iml
+Assets/_assets/
