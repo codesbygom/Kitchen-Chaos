@@ -4,7 +4,7 @@ A fast-paced kitchen cooking game built in Unity, made as part of a game develop
 
 Grab ingredients, chop, cook, and plate dishes before the timer runs out!
 
-**▶ Play it on itch.io:** [gdworkshop.itch.io/kitchen-chaos](https://gdworkshop.itch.io/kitchen-chaos)
+**▶ Play it on itch.io:** [codesnmeshes.itch.io/kitchen-chaos](https://codesnmeshes.itch.io/kitchen-chaos)
 
 ## What I built
 
